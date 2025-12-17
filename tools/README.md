@@ -19,299 +19,141 @@ Unlike generic tools (TubeBuddy, vidIQ), Creator Unlock creates a **persistent, 
 
 ## Setup & Strategy Tools
 
-### 1. Channel Audit (FREE) 🎁
+### 1. [Channel Audit (FREE)](channel-audit.md) 🎁
 
-**What It Does:** Full channel audit with 6-part analysis framework
-
-**Perfect For:**
-- Understanding overall channel health
-- Identifying strengths and weaknesses
-- Getting a baseline before optimization
-- Free users getting started
-
-**Features:**
-- **Niche Audit** - Analyzes your niche focus and alignment
-- **Clickability Audit** - Evaluates CTR performance (thumbnails, titles)
-- **Watchability Audit** - Analyzes watch time and retention
-- **Likeability Audit** - Measures engagement rates
-- **Ideation Audit** - Reviews content ideas and opportunities
-- **Executive Summary** - Comprehensive overview with key insights
+Full channel audit with 6-part analysis framework. Perfect for understanding overall channel health, identifying strengths/weaknesses, and getting a baseline.
 
 **Access:** Free (1 audit per channel for free users)
 
-**[Run Your Free Channel Audit →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](channel-audit.md) | [Run Your Free Channel Audit →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 2. Niche Report
+### 2. [Niche Report](niche-report.md)
 
-**What It Does:** Generates a focused niche strategy from your channel data
+Generates a focused niche strategy from your channel data. Perfect for clarifying content focus, defining target audience, and aligning content strategy.
 
-**Perfect For:**
-- Clarifying your content focus
-- Defining your target audience
-- Aligning your content strategy
-- Understanding your niche positioning
+**Access:** Strategy plan and above | **Quota:** 20 runs/month
 
-**Features:**
-- Analyzes your channel's niche alignment
-- Identifies target audience characteristics
-- Provides niche strategy recommendations
-- Creates foundation for Strategy Model
-
-**Access:** Strategy plan and above  
-**Quota:** 20 runs/month
-
-**[Generate Your Niche Report →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](niche-report.md) | [Generate Your Niche Report →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 3. Deep Research (Most Viewed)
+### 3. [Deep Research (Most Viewed)](deep-research.md)
 
-**What It Does:** Analyzes top 100+ videos in your niche to find winning patterns
+Analyzes top 100+ videos in your niche to find winning patterns. Perfect for discovering what works, identifying content gaps, and learning from top performers.
 
-**Perfect For:**
-- Discovering what works in your niche
-- Identifying content gaps
-- Learning from top performers
-- Finding viral patterns
-
-**Features:**
-- Analyzes top-performing videos in your niche
-- Identifies winning content patterns
-- Discovers content opportunities
-- Provides competitive insights
-
-**Access:** Strategy plan and above  
-**Quota:** 3 runs/month  
+**Access:** Strategy plan and above | **Quota:** 3 runs/month  
 **Note:** Requires Niche Report to be completed first
 
-**[Run Deep Research →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](deep-research.md) | [Run Deep Research →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 4. Strategy Model Training
+### 4. [Strategy Model Training](strategy-model-training.md)
 
-**What It Does:** Combines niche and deep research insights into your personalized AI model
+Combines niche and deep research insights into your personalized AI model. Perfect for creating your personalized AI strategist that powers all other tools.
 
-**Perfect For:**
-- Creating your personalized AI strategist
-- Powering all other tools with your channel context
-- Building persistent AI memory
-- Enabling hyper-personalized outputs
-
-**Features:**
-- Combines Niche Report + Deep Research insights
-- Creates persistent AI model for your channel
-- Powers all other tools with personalization
-- Evolves as your channel grows
-
-**Access:** Strategy plan and above  
-**Quota:** 1 run/month per channel  
+**Access:** Strategy plan and above | **Quota:** 1 run/month per channel  
 **Note:** Requires both Niche Report and Deep Research to be completed
 
-**[Train Your Strategy Model →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](strategy-model-training.md) | [Train Your Strategy Model →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
 ## Content Creation Tools
 
-### 5. Viral Title Generator
+### 5. [Viral Title Generator](viral-title-generator.md)
 
-**What It Does:** Creates titles with viral potential using proven formulas and trends
+Creates titles with viral potential using proven formulas and trends. Perfect for maximizing click-through rates, testing title variations, and improving discoverability.
 
-**Perfect For:**
-- Maximizing click-through rates
-- Testing title variations
-- Improving discoverability
-- A/B testing titles
+**Access:** Strategy plan and above | **Quota:** 100 runs/month
 
-**Features:**
-- Uses proven viral title formulas
-- Incorporates trending keywords
-- Personalized to your niche and audience
-- Multiple variations per input
-
-**Access:** Strategy plan and above  
-**Quota:** 100 runs/month  
-**Input Options:** YouTube URL, video transcript, or manual form
-
-**[Generate Viral Titles →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](viral-title-generator.md) | [Generate Viral Titles →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 6. Video Hook Creator
+### 6. [Video Hook Creator](video-hook-creator.md)
 
-**What It Does:** Generates engaging opening hooks with narrative structure and visual ideas
+Generates engaging opening hooks with narrative structure and visual ideas. Perfect for reducing bounce rates, improving retention, and creating attention-grabbing intros.
 
-**Perfect For:**
-- Reducing bounce rates
-- Improving retention
-- Creating attention-grabbing intros
-- Optimizing first 15 seconds
+**Access:** Strategy plan and above | **Quota:** 100 runs/month
 
-**Features:**
-- Narrative structure suggestions
-- Visual ideas for hooks
-- Personalized to your content style
-- Multiple hook variations
-
-**Access:** Strategy plan and above  
-**Quota:** 100 runs/month  
-**Input Options:** YouTube URL, video transcript, or manual form
-
-**[Create Video Hooks →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](video-hook-creator.md) | [Create Video Hooks →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 7. Thumbnail Grader
+### 7. [Thumbnail Grader](thumbnail-grader.md)
 
-**What It Does:** AI-powered feedback on thumbnails to improve CTR
+AI-powered feedback on thumbnails to improve CTR. Perfect for optimizing click-through rates, A/B testing thumbnails, and understanding what makes thumbnails effective.
 
-**Perfect For:**
-- Optimizing click-through rates
-- A/B testing thumbnails
-- Understanding what makes thumbnails effective
-- Applying all 12 proven secrets
+**Access:** Strategy plan and above | **Quota:** 100 runs/month
 
-**Features:**
-- Scores thumbnails across all 12 secrets
-- Provides specific improvement suggestions
-- CTR prediction
-- Competitive analysis
-
-**Access:** Strategy plan and above  
-**Quota:** 100 runs/month  
-**Input Options:** Upload image or YouTube video URL
-
-**[Grade Your Thumbnails →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](thumbnail-grader.md) | [Grade Your Thumbnails →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 8. Description Generator
+### 8. [Description Generator](description-generator.md)
 
-**What It Does:** Creates SEO-optimized descriptions with overview, chapters, and hashtags
+Creates SEO-optimized descriptions with overview, chapters, and hashtags. Perfect for improving search visibility, organizing video content, and maximizing SEO value.
 
-**Perfect For:**
-- Improving search visibility
-- Organizing video content
-- Maximizing SEO value
-- Adding timestamps easily
+**Access:** Strategy plan and above | **Quota:** 100 runs/month
 
-**Features:**
-- SEO-optimized descriptions
-- Automatic chapter/timestamp suggestions
-- Hashtag recommendations
-- Overview generation
-
-**Access:** Strategy plan and above  
-**Quota:** 100 runs/month  
-**Input Options:** YouTube URL, video transcript, or manual form
-
-**[Generate Descriptions →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](description-generator.md) | [Generate Descriptions →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 9. Video Audit Tool
+### 9. [Video Audit Tool](video-audit-tool.md)
 
-**What It Does:** Audits a single video for Title, Thumbnail, Hook, Script, and Description using the N.I.C.E.R. Lite framework
+Audits a single video for Title, Thumbnail, Hook, Script, and Description using the N.I.C.E.R. Lite framework. Perfect for optimizing individual videos before/after publishing.
 
-**Perfect For:**
-- Optimizing individual videos before/after publishing
-- Identifying improvement areas
-- Comprehensive video analysis
-- Pre-publish optimization
+**Access:** Strategy plan and above | **Quota:** 100 runs/month
 
-**Features:**
-- Complete video analysis (Title, Thumbnail, Hook, Script, Description)
-- Uses N.I.C.E.R. Lite framework
-- Specific optimization recommendations
-- Performance prediction
-
-**Access:** Strategy plan and above  
-**Quota:** 100 runs/month  
-**Input Options:** YouTube URL, video transcript, or manual form
-
-**[Audit Your Videos →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](video-audit-tool.md) | [Audit Your Videos →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
 ## Coaching Tools (Pro Plan)
 
-### 10. Ask A Coach
+### 10. [Ask A Coach](ask-a-coach.md)
 
-**What It Does:** 24/7 AI coaching chatbot for YouTube questions
-
-**Perfect For:**
-- Getting instant answers to YouTube questions
-- Strategic guidance anytime
-- Troubleshooting channel issues
-- Personalized coaching
-
-**Features:**
-- Available 24/7
-- Personalized to your channel context
-- Uses your Strategy Model for answers
-- Instant responses
+24/7 AI coaching chatbot for YouTube questions. Perfect for getting instant answers, strategic guidance, and troubleshooting channel issues.
 
 **Access:** Pro plan only
 
-**[Upgrade to Pro for Coaching →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](ask-a-coach.md) | [Upgrade to Pro for Coaching →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 11. Group Coaching
+### 11. [Group Coaching](group-coaching.md)
 
-**What It Does:** Community of like-minded creators
-
-**Perfect For:**
-- Networking with other creators
-- Peer learning and sharing
-- Getting community support
-- Learning from others' experiences
+Community of like-minded creators. Perfect for networking, peer learning, sharing experiences, and getting community support.
 
 **Access:** Pro plan only
 
-**[Join Group Coaching →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](group-coaching.md) | [Join Group Coaching →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
-### 12. Live Weekly Coaching
+### 12. [Live Weekly Coaching](live-weekly-coaching.md)
 
-**What It Does:** Weekly live training sessions (Wednesdays at 5 PM EST)
-
-**Perfect For:**
-- Real-time learning from experts
-- Q&A sessions
-- Staying updated on best practices
-- Getting personalized feedback
+Weekly live training sessions (Wednesdays at 5 PM EST). Perfect for real-time learning, Q&A with experts, staying updated on best practices.
 
 **Access:** Pro plan only
 
-**[Attend Live Coaching →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](live-weekly-coaching.md) | [Attend Live Coaching →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
 ## Coming Soon
 
-### What To Create
+### [What To Create](what-to-create.md)
 
-**What It Will Do:** Transforms your Deep Research + Strategy Model into a visual roadmap of content opportunities
-
-**Perfect For:**
-- Content ideation
-- Identifying missing videos
-- Discovering trending opportunities
-- Planning content calendar
-
-**Features:**
-- **Videos To Make:** Personalized video ideas based on your niche and strategy
-- **Missing Videos:** Content gap analysis to find opportunities competitors are winning
-- **Trending Videos:** Real-time trending topics blended with your strategy model
+Transforms your Deep Research + Strategy Model into a visual roadmap of content opportunities. Features: Videos To Make, Missing Videos, Trending Videos.
 
 **Status:** In Development
 
-**[Get Notified When Available →](https://creatorunlock.com?fpr=chris95)**
+**[Read More →](what-to-create.md) | [Get Notified When Available →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
