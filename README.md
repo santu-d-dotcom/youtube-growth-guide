@@ -350,4 +350,16 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
+<div align="center">
+
+## Get Your Free YouTube Channel Audit! 100% Free!
+
+[![Get Your Free YouTube Channel Audit](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765904553190-Screenshot%202025-12-16%20104515.png?alt=media&token=69d7b941-bfcf-4add-b5e6-56e2f9e88550)](https://creatorunlock.com?fpr=chris95)
+
+**[Get Your FREE Channel Audit →](https://creatorunlock.com?fpr=chris95)**
+
+</div>
+
+---
+
 *Last updated: 2025*
