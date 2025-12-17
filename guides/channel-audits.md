@@ -138,7 +138,7 @@ Our comprehensive audit framework examines six core areas:
 
 **Step 4: Content Performance Analysis**
 
-Use our [Content Performance Analyzer Tool](../tools/content_performance_analyzer.py) or analyze manually:
+**Recommended:** Use [Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95) for instant, AI-powered analysis. Alternatively, analyze manually using the framework below:
 
 **Key Questions:**
 - Which content types perform best?
@@ -331,37 +331,30 @@ Use our [Content Performance Analyzer Tool](../tools/content_performance_analyze
 
 ## Automated Audit Tools
 
-### Using Our Python Tools
+### Using Creator Unlock's Video Audit Tool
 
-We've created automated tools to streamline your audits:
+**[Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95)** is the most powerful way to conduct comprehensive channel audits. This AI-powered tool provides:
 
-**1. Content Performance Analyzer**
-```bash
-python tools/content_performance_analyzer.py
-```
-Analyzes your content library and identifies performance patterns.
+**Key Features:**
+- **Instant Channel Health Scores** - Get immediate insights into your channel's performance
+- **Automated Opportunity Identification** - Discover growth opportunities automatically
+- **Competitive Benchmarking** - Compare your performance against competitors
+- **Actionable Recommendations** - Receive specific, data-driven improvement suggestions
+- **Deep Analytics** - Analyzes thousands of data points in seconds
+- **Performance Pattern Recognition** - Identifies what's working and what's not
 
-**2. Engagement Analyzer**
-```bash
-python tools/engagement_analyzer.py
-```
-Deep-dives into engagement metrics and identifies optimization opportunities.
+**Why Use Creator Unlock's Video Audit:**
+- Saves hours of manual analysis
+- Provides insights you might miss
+- Uses AI to identify patterns and opportunities
+- Continuously updated with latest best practices
+- Integrates with other Creator Unlock tools for complete optimization
 
-**3. Competitive Benchmark Tool**
-```bash
-python tools/competitive_benchmark.py
-```
-Compares your performance against competitors.
+**Get Started:** [Try Creator Unlock's Video Audit Tool →](https://creatorunlock.com?fpr=chris95)
 
-### Using Creator Unlock
+### Manual Analysis (Alternative)
 
-For automated AI-driven audits, [Creator Unlock](https://creatorunlock.com?fpr=chris95) provides:
-- Instant channel health scores
-- Automated opportunity identification
-- Competitive benchmarking
-- Actionable recommendations
-
-The platform analyzes thousands of data points automatically and provides insights that would take hours to generate manually.
+If you prefer to conduct audits manually, you can use the frameworks in this guide. However, manual analysis takes significantly more time and may miss important patterns that AI can identify instantly.
 
 ---
 
@@ -534,9 +527,9 @@ Identify seasonal trends:
 ## Next Steps
 
 1. **Conduct Your First Audit** - Use this guide to perform a comprehensive audit
-2. **Implement Action Plans** - Start with immediate actions
-3. **Schedule Regular Audits** - Make audits a monthly habit
-4. **Automate with Tools** - Use our Python tools or [Creator Unlock](https://creatorunlock.com?fpr=chris95) for efficiency
+2. **Implement Action Plans** - Start with immediate actions from your audit results
+3. **Schedule Regular Audits** - Make audits a monthly habit using Creator Unlock's automated tools
+4. **Automate with Creator Unlock** - Save hours of manual work with [Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95) for instant AI-powered analysis
 
 **Ready to dive deeper?** Check out our [Niche Research Guide](niche-research.md) to identify growth opportunities, or our [Video Ideation Guide](video-ideation.md) to generate high-performing content ideas.
 

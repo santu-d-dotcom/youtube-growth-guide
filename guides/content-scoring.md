@@ -624,14 +624,37 @@ Weighted Score = Σ(Dimension Score × Weight)
 
 ### Scoring Tools
 
-**Manual Scoring:**
-- Use our [Content Scoring Template](../templates/content-scoring-template.md)
-- Score each dimension
-- Calculate total score
-- Identify improvements
+**Recommended: Creator Unlock's Video Audit & Dashboard**
 
-**Automated Tools:**
-- **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** - AI-powered content scoring
+**[Creator Unlock](https://creatorunlock.com?fpr=chris95)** provides comprehensive content scoring through multiple integrated tools:
+
+**Video Audit Tool:**
+- Instant performance analysis
+- Automated scoring across all dimensions
+- Competitive benchmarking
+- Actionable optimization recommendations
+
+**Dashboard:**
+- Real-time channel health scores
+- Performance tracking over time
+- Automated alerts for optimization opportunities
+- Integration with all Creator Unlock tools
+
+**Why Use Creator Unlock:**
+- AI-powered scoring saves hours of manual work
+- Provides insights you might miss
+- Continuously updated with latest best practices
+- Integrates scoring with optimization tools
+
+**Get Started:** [Try Creator Unlock's Video Audit →](https://creatorunlock.com?fpr=chris95)
+
+**Manual Scoring (Alternative):**
+- Use our [Content Scoring Template](../templates/content-scoring-template.md)
+- Score each dimension manually
+- Calculate total score
+- Identify improvements yourself
+
+**Other Tools:**
 - VidIQ - Content grader
 - TubeBuddy - SEO and optimization checker
 
@@ -659,7 +682,7 @@ Weighted Score = Σ(Dimension Score × Weight)
 
 **Ready to implement growth strategies?** Check out our [Data-Backed Growth Strategies Guide](growth-strategies.md) to build systems that compound over time.
 
-**Want to automate scoring?** [Creator Unlock](https://creatorunlock.com?fpr=chris95) uses AI to score your content and provide optimization recommendations automatically.
+**Want to automate scoring?** [Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95) uses AI to score your content across all dimensions and provide specific optimization recommendations automatically. Get instant scores and actionable improvements!
 
 ---
 

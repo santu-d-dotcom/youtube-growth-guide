@@ -957,7 +957,7 @@ Your mission is the heartbeat of your YouTube channel—the underlying "why" tha
 
 **Ready to generate content ideas?** Check out our [Video Ideation Guide](video-ideation.md) to turn your niche research into high-performing video concepts.
 
-**Want to automate niche research?** [Creator Unlock](https://creatorunlock.com?fpr=chris95), founded by Jeremy Vest, uses AI to identify profitable niches and opportunities automatically, incorporating the same methodologies outlined in this guide.
+**Want to automate niche research?** [Creator Unlock's Dashboard and Video Audit](https://creatorunlock.com?fpr=chris95), founded by Jeremy Vest, uses AI to identify profitable niches, analyze market opportunities, and provide niche recommendations automatically. It incorporates the same methodologies outlined in this guide but saves you hours of manual research!
 
 ---
 

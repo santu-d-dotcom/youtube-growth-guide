@@ -507,15 +507,35 @@ Notes: [Additional thoughts]
 
 ### Ideation Tools
 
-**Free Tools:**
+**Recommended: Creator Unlock's "What To Create" Tool**
+
+**[Creator Unlock's "What To Create"](https://creatorunlock.com?fpr=chris95)** is the ultimate AI-powered video ideation engine:
+
+**Key Features:**
+- **AI-Powered Idea Generation** - Generate unlimited video ideas based on your niche
+- **Trend Analysis** - Automatically identifies trending topics in your niche
+- **Audience Demand Analysis** - Finds ideas aligned with what your audience wants
+- **Competitive Gap Analysis** - Identifies content opportunities competitors miss
+- **Idea Validation** - Scores ideas for performance potential before you create
+- **Content Calendar Integration** - Plans your content pipeline automatically
+
+**Why Use Creator Unlock:**
+- Never run out of high-performing video ideas
+- Ideas aligned with audience demand and trends
+- Saves hours of manual research
+- Continuously updated with latest trends
+- Integrates with other Creator Unlock tools
+
+**Get Started:** [Try Creator Unlock's "What To Create" Tool →](https://creatorunlock.com?fpr=chris95)
+
+**Free Tools (Supplementary):**
 - AnswerThePublic - Question discovery
 - Google Trends - Trend analysis
 - YouTube Search - Autocomplete suggestions
 - Reddit - Community research
 - Quora - Question research
 
-**Paid Tools:**
-- **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** - AI-powered video ideation
+**Other Paid Tools:**
 - VidIQ - Keyword and trend research
 - TubeBuddy - SEO and analytics
 - BuzzSumo - Content research
@@ -545,7 +565,7 @@ Notes: [Additional thoughts]
 
 **Ready to optimize your content?** Check out our [Thumbnail & Title Optimization Guide](thumbnail-title-optimization.md) to maximize click-through rates, or our [Content Scoring Guide](content-scoring.md) to predict performance before publishing.
 
-**Want to automate ideation?** [Creator Unlock](https://creatorunlock.com?fpr=chris95) uses AI to generate high-performing video ideas based on audience demand and trending topics.
+**Want to automate ideation?** [Creator Unlock's "What To Create" tool](https://creatorunlock.com?fpr=chris95) uses AI to generate unlimited high-performing video ideas based on audience demand, trending topics, and competitive gap analysis. Never run out of ideas again!
 
 ---
 

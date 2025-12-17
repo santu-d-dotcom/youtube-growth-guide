@@ -164,14 +164,37 @@ Implement strategies that compound over time. Build systems that generate consis
 
 ## Tools & Workflows
 
-This repository includes practical tools and workflows you can use immediately:
+### Creator Unlock: Your All-in-One YouTube Growth Platform
 
-- **Python Scripts:** Automated analysis tools for channel audits and research
+**[Creator Unlock](https://creatorunlock.com?fpr=chris95)** provides AI-powered tools that automate everything covered in this guide:
+
+**Core Tools:**
+- **What To Create** - AI-powered video ideation engine
+- **Dashboard** - Real-time channel analytics and insights
+- **Video Audit** - Comprehensive channel performance analysis
+- **Titles** - AI-powered title optimization and CTR prediction
+- **Thumbnail Grader** - Thumbnail analysis and optimization
+- **Hooks** - Video hook optimization for better retention
+- **Descriptions** - SEO-optimized description generation
+
+**Why Creator Unlock:**
+- Saves hours of manual work
+- AI-powered insights you can't get manually
+- Integrates all tools for complete optimization
+- Continuously updated with latest best practices
+- Founded by Jeremy Vest with 16+ years of YouTube strategy experience
+
+**Get Started:** [Try Creator Unlock Free →](https://creatorunlock.com?fpr=chris95)
+
+### Additional Resources
+
+This repository also includes:
+
 - **Templates:** Ready-to-use frameworks for ideation and optimization
 - **Workflows:** Step-by-step processes for implementing strategies
 - **Checklists:** Pre-publish validation and optimization checklists
 
-📁 [Explore Tools →](tools/)
+📁 [Explore Templates →](templates/)
 📁 [View Workflows →](workflows/)
 
 ---
@@ -192,20 +215,42 @@ Once you've mastered the basics, dive into advanced strategies:
 
 ## Resources
 
-### Recommended Tools
+### Essential Tool: Creator Unlock
 
-- **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** - AI-powered YouTube growth platform (affiliate link)
-- YouTube Analytics
-- TubeBuddy / VidIQ
-- Canva / Photoshop
+**[Creator Unlock](https://creatorunlock.com?fpr=chris95)** ⭐ **THE #1 RECOMMENDED PLATFORM**
+
+The all-in-one AI-powered YouTube growth platform that automates everything in this guide:
+
+**7 Powerful Tools:**
+1. **What To Create** - AI video ideation engine
+2. **Dashboard** - Real-time analytics and insights
+3. **Video Audit** - Comprehensive channel analysis
+4. **Titles** - AI title optimization with CTR prediction
+5. **Thumbnail Grader** - Thumbnail analysis using 12 secrets
+6. **Hooks** - Video hook optimization
+7. **Descriptions** - SEO-optimized descriptions
+
+**Why Creator Unlock:**
+- Founded by Jeremy Vest (16+ years, 50+ billion views)
+- Saves hours of manual work
+- AI-powered insights you can't get manually
+- All tools integrate together
+- Continuously updated with latest best practices
+
+**[Start Using Creator Unlock Free →](https://creatorunlock.com?fpr=chris95)**
+
+### Additional Tools
+
+**Analytics & SEO:**
+- YouTube Analytics (built-in)
+- TubeBuddy / VidIQ (supplementary)
+
+**Design:**
+- Canva / Photoshop (thumbnail creation)
+
+**Research:**
 - Google Trends
 - AnswerThePublic
-
-### Learning Resources
-
-- YouTube Creator Academy
-- Creator Unlock Blog
-- Industry reports and case studies
 
 📖 [Full Resources List →](resources.md)
 
@@ -225,16 +270,32 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## About Creator Unlock
 
-[Creator Unlock](https://creatorunlock.com?fpr=chris95) is an AI-powered platform founded by Jeremy Vest that helps YouTube creators achieve sustainable growth through:
+[Creator Unlock](https://creatorunlock.com?fpr=chris95) is the ultimate AI-powered YouTube growth platform founded by Jeremy Vest (16+ years experience, 50+ billion organic views). It provides 7 powerful integrated tools:
 
-- **AI-Driven Channel Audits** - Deep analysis of your channel's performance
-- **Niche Research Tools** - Identify profitable opportunities
-- **Video Ideation Engine** - Generate high-performing content ideas
-- **Thumbnail & Title Optimization** - Maximize click-through rates
-- **Content Scoring System** - Predict performance before publishing
-- **Data-Backed Strategies** - Implement proven growth frameworks
+**The Complete Tool Suite:**
 
-This guide is inspired by Creator Unlock's methodologies and provides open-source alternatives and complementary strategies. For the full suite of AI-powered tools and automated workflows, check out [Creator Unlock](https://creatorunlock.com?fpr=chris95).
+1. **What To Create** - AI-powered video ideation engine that generates unlimited high-performing ideas
+2. **Dashboard** - Real-time channel analytics, insights, and performance tracking
+3. **Video Audit** - Comprehensive channel analysis with instant health scores and recommendations
+4. **Titles** - AI-powered title optimization with CTR prediction and A/B testing
+5. **Thumbnail Grader** - Thumbnail analysis using all 12 proven secrets with optimization suggestions
+6. **Hooks** - Video hook optimization for better retention and engagement
+7. **Descriptions** - SEO-optimized description generation with keyword research
+
+**Why Creator Unlock:**
+- **Saves Hours** - Automates everything covered in this guide
+- **AI-Powered** - Insights you can't get manually
+- **Integrated** - All tools work together seamlessly
+- **Proven** - Based on methodologies from 50+ billion views
+- **Updated** - Continuously improved with latest best practices
+
+**This Guide vs. Creator Unlock:**
+- This guide teaches you the methodologies manually
+- Creator Unlock automates everything with AI
+- Use this guide to learn, Creator Unlock to execute
+- Best results: Learn here, automate with Creator Unlock
+
+**[Start Using Creator Unlock Free →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 
@@ -244,9 +305,18 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Ready to grow your YouTube channel?** Start with the [Channel Audits Guide](guides/channel-audits.md) and work through each section systematically.
+**Ready to grow your YouTube channel?**
 
-**Want to supercharge your growth?** Combine this guide with [Creator Unlock's](https://creatorunlock.com?fpr=chris95) AI-powered tools for maximum results.
+**Option 1: Learn the Methodologies** - Start with the [Channel Audits Guide](guides/channel-audits.md) and work through each section systematically to understand the frameworks.
+
+**Option 2: Automate Everything** - [Start using Creator Unlock](https://creatorunlock.com?fpr=chris95) to get instant AI-powered analysis, ideation, optimization, and growth strategies.
+
+**Best Approach: Do Both!** 
+- Learn the methodologies from this guide (understand the "why")
+- Use Creator Unlock to execute automatically (get the "how" done fast)
+- This combination gives you both knowledge and results
+
+**[Get Started with Creator Unlock Free →](https://creatorunlock.com?fpr=chris95)**
 
 ---
 

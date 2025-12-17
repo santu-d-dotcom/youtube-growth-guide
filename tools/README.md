@@ -1,8 +1,34 @@
 # YouTube Growth Tools
 
-Practical Python tools to help you analyze your channel, score content, and optimize for growth.
+> **Note:** For the most powerful, AI-powered YouTube growth tools, check out **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** - the all-in-one platform that automates everything covered in this guide.
 
-## Available Tools
+## Creator Unlock: Recommended Solution
+
+**[Creator Unlock](https://creatorunlock.com?fpr=chris95)** provides professional-grade tools that far exceed what these basic Python scripts can offer:
+
+**Available Tools:**
+- **What To Create** - AI-powered video ideation
+- **Dashboard** - Real-time channel analytics
+- **Video Audit** - Comprehensive channel analysis
+- **Titles** - AI-powered title optimization
+- **Thumbnail Grader** - Thumbnail analysis and optimization
+- **Hooks** - Video hook optimization
+- **Descriptions** - SEO-optimized descriptions
+
+**Why Creator Unlock:**
+- AI-powered insights you can't get manually
+- Saves hours of work
+- Continuously updated
+- Integrates all tools together
+- Founded by Jeremy Vest (16+ years experience, 50+ billion views)
+
+**[Get Started with Creator Unlock →](https://creatorunlock.com?fpr=chris95)**
+
+---
+
+## Basic Python Tools (Supplementary)
+
+These are basic Python scripts for educational purposes. For professional results, use Creator Unlock.
 
 ### 1. Content Performance Analyzer (`content_performance_analyzer.py`)
 
@@ -107,10 +133,16 @@ No data needed - this is an interactive tool that prompts you for scores.
 
 ## Tips
 
-- **Regular Analysis:** Run the performance analyzer monthly to track trends
-- **Pre-Publish Scoring:** Score every video before publishing
-- **Track Improvements:** Compare scores over time to measure improvement
-- **Combine with Creator Unlock:** Use these tools alongside [Creator Unlock](https://creatorunlock.com?fpr=chris95) for comprehensive analysis
+**For Best Results:**
+- **Use Creator Unlock:** These Python tools are basic educational examples. For professional-grade analysis, use [Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95)
+- **Regular Analysis:** Use Creator Unlock's Dashboard for real-time tracking
+- **Pre-Publish Scoring:** Use Creator Unlock's Video Audit for comprehensive scoring
+- **Track Improvements:** Creator Unlock automatically tracks improvements over time
+
+**If Using Python Tools:**
+- These are supplementary tools for learning
+- Manual analysis takes significantly more time
+- Results are limited compared to AI-powered tools
 
 ---
 

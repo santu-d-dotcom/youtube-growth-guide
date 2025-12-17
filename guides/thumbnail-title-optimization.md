@@ -1442,6 +1442,30 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 
 ## Tools & Resources
 
+### Thumbnail Optimization Tools
+
+**Recommended: Creator Unlock's Thumbnail Grader**
+
+**[Creator Unlock's Thumbnail Grader](https://creatorunlock.com?fpr=chris95)** is the ultimate AI-powered thumbnail optimization tool:
+
+**Key Features:**
+- **AI Thumbnail Analysis** - Scores your thumbnails across all 12 secrets automatically
+- **CTR Prediction** - Predicts click-through rate before publishing
+- **Optimization Recommendations** - Specific suggestions to improve your thumbnail
+- **A/B Testing** - Test up to 3 thumbnails simultaneously (YouTube's Test and Compare)
+- **Competitive Analysis** - Compares your thumbnails against top performers
+- **Brand Consistency Check** - Ensures thumbnails match your brand style
+- **Performance Tracking** - Tracks which thumbnails perform best
+
+**Why Use Creator Unlock:**
+- Applies all 12 secrets automatically
+- Saves hours of manual optimization
+- Uses proven frameworks that work
+- Continuously learns from performance data
+- Integrates with Titles tool for complete optimization
+
+**Get Started:** [Try Creator Unlock's Thumbnail Grader →](https://creatorunlock.com?fpr=chris95)
+
 ### Design Tools
 
 **Free Tools:**
@@ -1454,20 +1478,37 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 - Adobe Photoshop - Professional design
 - Adobe Illustrator - Vector graphics
 - Figma - Design and collaboration
-- **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** - AI-powered thumbnail optimization
 
-### Title Tools
+### Title Optimization Tools
 
-**Free Tools:**
+**Recommended: Creator Unlock's Titles Tool**
+
+**[Creator Unlock's Titles Tool](https://creatorunlock.com?fpr=chris95)** provides AI-powered title optimization:
+
+**Key Features:**
+- **AI Title Generation** - Generate high-performing titles automatically
+- **CTR Prediction** - Predicts click-through rate before publishing
+- **Keyword Optimization** - Automatically includes high-performing keywords
+- **A/B Testing** - Test multiple title variations
+- **Competitive Analysis** - Analyzes what works for competitors
+- **Performance Tracking** - Tracks which titles perform best
+
+**Why Use Creator Unlock:**
+- Saves hours of manual title creation
+- Uses proven formulas that work
+- Continuously learns from performance data
+- Integrates with Thumbnail Grader for complete optimization
+
+**Get Started:** [Try Creator Unlock's Titles Tool →](https://creatorunlock.com?fpr=chris95)
+
+**Free Tools (Supplementary):**
 - YouTube Search - Keyword research
 - Google Trends - Trend analysis
 - AnswerThePublic - Question research
-- Title generator tools
 
-**Paid Tools:**
+**Other Paid Tools:**
 - VidIQ - Title optimization and SEO
 - TubeBuddy - Title grader and suggestions
-- **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** - AI-powered title optimization
 
 ### Testing Tools
 
