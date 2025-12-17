@@ -1079,7 +1079,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 **Structure:** [Number] + [Benefit/Outcome] + [Topic]
 
 **Examples:**
-- "10 Python Tips That Will Make You a Better Developer"
+- "10 Fitness Tips That Will Transform Your Workout"
 - "5 Productivity Hacks That Saved Me 10 Hours Per Week"
 - "7 Cooking Secrets Professional Chefs Don't Want You to Know"
 
@@ -1096,7 +1096,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 **Examples:**
 - "Want to Double Your YouTube Views? Here's How"
 - "Why Do Some Videos Go Viral While Others Don't?"
-- "Can You Really Learn Python in 30 Days?"
+- "Can You Really Learn Guitar in 30 Days?"
 
 **Why It Works:**
 - Creates curiosity gap
@@ -1110,7 +1110,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 
 **Examples:**
 - "Struggling with YouTube Growth? Try This Strategy"
-- "Python Errors Driving You Crazy? Here's the Fix"
+- "Budget Issues Driving You Crazy? Here's the Fix"
 - "Can't Find Time to Workout? This 10-Minute Routine Works"
 
 **Why It Works:**
@@ -1124,9 +1124,9 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 **Structure:** [Option A] vs [Option B] + [Context]
 
 **Examples:**
-- "Python vs JavaScript: Which Should You Learn First?"
+- "Home Workout vs Gym: Which Should You Choose?"
 - "Free vs Paid YouTube Tools: What's Actually Worth It?"
-- "Home Workout vs Gym: The Truth About Results"
+- "Mac vs PC for Video Editing: The Truth About Performance"
 
 **Why It Works:**
 - Creates debate/curiosity
@@ -1141,7 +1141,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 **Examples:**
 - "The Secret YouTube Algorithm Hack Nobody Talks About"
 - "What Professional Chefs Don't Want You to Know About Cooking"
-- "The Hidden Python Feature That Will Change Your Code"
+- "The Hidden Camera Feature That Will Change Your Photography"
 
 **Why It Works:**
 - Creates exclusivity
@@ -1154,7 +1154,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 **Structure:** [Ultimate/Complete] + [Topic] + [Audience/Goal]
 
 **Examples:**
-- "The Ultimate Python Guide for Beginners"
+- "The Ultimate Fitness Guide for Beginners"
 - "Complete YouTube Growth Strategy (2024)"
 - "The Ultimate Guide to Productivity: Everything You Need to Know"
 
@@ -1190,8 +1190,8 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 - Higher click probability
 
 **Examples:**
-- ✅ "Python Tutorial: Complete Beginner's Guide"
-- ❌ "Complete Beginner's Guide to Python Tutorial"
+- ✅ "Fitness Tutorial: Complete Beginner's Guide"
+- ❌ "Complete Beginner's Guide to Fitness Tutorial"
 
 ### Power Words
 
@@ -1388,7 +1388,7 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 
 **Examples:**
 - Numbered series (Part 1, Part 2, etc.)
-- Topic series (Python Basics, Advanced Python)
+- Topic series (Fitness Basics, Advanced Training)
 - Format series (Tips, Tutorials, Reviews)
 
 ### Technique 2: Seasonal Optimization
@@ -1462,14 +1462,14 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 - Saves hours of manual optimization
 - Uses proven frameworks that work
 - Continuously learns from performance data
-- Integrates with Titles tool for complete optimization
+- Integrates with Viral Title Generator for complete optimization
 
 **Get Started:** [Try Creator Unlock's Thumbnail Grader →](https://creatorunlock.com?fpr=chris95)
 
 ### Design Tools
 
 **Free Tools:**
-- Canva - Thumbnail templates and design
+- Canva - Thumbnail design tool
 - GIMP - Advanced image editing
 - Photopea - Online Photoshop alternative
 - Remove.bg - Background removal
@@ -1481,25 +1481,25 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 
 ### Title Optimization Tools
 
-**Recommended: Creator Unlock's Titles Tool**
+**Recommended: Creator Unlock's Viral Title Generator**
 
-**[Creator Unlock's Titles Tool](https://creatorunlock.com?fpr=chris95)** provides AI-powered title optimization:
+**[Creator Unlock's Viral Title Generator](https://creatorunlock.com?fpr=chris95)** provides AI-powered title optimization:
 
 **Key Features:**
-- **AI Title Generation** - Generate high-performing titles automatically
-- **CTR Prediction** - Predicts click-through rate before publishing
-- **Keyword Optimization** - Automatically includes high-performing keywords
-- **A/B Testing** - Test multiple title variations
-- **Competitive Analysis** - Analyzes what works for competitors
-- **Performance Tracking** - Tracks which titles perform best
+- **Viral Title Generation** - Creates titles with viral potential using proven formulas
+- **Trend Integration** - Incorporates trending keywords automatically
+- **Personalized Outputs** - Tailored to your niche and Strategy Model
+- **Multiple Variations** - Generates multiple title options per input
+- **Input Flexibility** - YouTube URL, video transcript, or manual form
 
 **Why Use Creator Unlock:**
 - Saves hours of manual title creation
-- Uses proven formulas that work
-- Continuously learns from performance data
+- Uses proven viral formulas that work
+- Personalized to your channel's niche and audience
 - Integrates with Thumbnail Grader for complete optimization
+- Powered by your Strategy Model for hyper-personalized outputs
 
-**Get Started:** [Try Creator Unlock's Titles Tool →](https://creatorunlock.com?fpr=chris95)
+**Get Started:** [Try Creator Unlock's Viral Title Generator →](https://creatorunlock.com?fpr=chris95)
 
 **Free Tools (Supplementary):**
 - YouTube Search - Keyword research
@@ -1517,11 +1517,9 @@ Based on Jeremy Vest's framework, here are six thumbnail types that consistently
 - Google Optimize (for external testing)
 - Manual testing and tracking
 
-### Templates
+### Additional Resources
 
-- [Thumbnail Design Checklist](../templates/thumbnail-design-checklist.md)
-- [Title Optimization Checklist](../templates/title-optimization-checklist.md)
-- [A/B Testing Template](../templates/ab-testing-template.md)
+For automated thumbnail and title optimization, use [Creator Unlock's Thumbnail Grader and Viral Title Generator](https://creatorunlock.com?fpr=chris95) which analyze your thumbnails using all 12 secrets and generate viral titles with proven formulas.
 
 ### Further Reading
 

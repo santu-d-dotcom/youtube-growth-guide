@@ -40,7 +40,7 @@ After analyzing thousands of successful YouTube channels and working with platfo
 **What Makes This Different:**
 - ✅ **Data-Driven:** Every strategy is backed by analytics and real-world results
 - ✅ **Actionable:** Step-by-step workflows you can follow immediately
-- ✅ **Tool-Inclusive:** Includes scripts, templates, and frameworks you can use
+- ✅ **Tool-Inclusive:** Includes frameworks and strategies you can use
 - ✅ **Comprehensive:** Covers everything from channel audits to content optimization
 - ✅ **Open Source:** Free to use, modify, and share
 
@@ -168,33 +168,44 @@ Implement strategies that compound over time. Build systems that generate consis
 
 **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** provides AI-powered tools that automate everything covered in this guide:
 
-**Core Tools:**
-- **What To Create** - AI-powered video ideation engine
-- **Dashboard** - Real-time channel analytics and insights
-- **Video Audit** - Comprehensive channel performance analysis
-- **Titles** - AI-powered title optimization and CTR prediction
-- **Thumbnail Grader** - Thumbnail analysis and optimization
-- **Hooks** - Video hook optimization for better retention
-- **Descriptions** - SEO-optimized description generation
+**12 Powerful Tools:**
+
+**Setup & Strategy:**
+- **Channel Audit** (FREE) - Full 6-part channel analysis
+- **Niche Report** - Focused niche strategy generation
+- **Deep Research** - Top 100+ video analysis in your niche
+- **Strategy Model Training** - Creates your personalized AI model
+
+**Content Creation:**
+- **Viral Title Generator** - Titles with viral potential
+- **Video Hook Creator** - Engaging opening hooks
+- **Thumbnail Grader** - AI-powered thumbnail feedback
+- **Description Generator** - SEO-optimized descriptions
+- **Video Audit Tool** - Complete video optimization
+
+**Coaching (Pro):**
+- **Ask A Coach** - 24/7 AI coaching chatbot
+- **Group Coaching** - Creator community
+- **Live Weekly Coaching** - Weekly training sessions
 
 **Why Creator Unlock:**
-- Saves hours of manual work
-- AI-powered insights you can't get manually
-- Integrates all tools for complete optimization
-- Continuously updated with latest best practices
-- Founded by Jeremy Vest with 16+ years of YouTube strategy experience
+- **Persistent AI Memory** - Strategy Model evolves with your channel
+- **Hyper-Personalization** - Every tool output tailored to your niche
+- **Cost-Effective** - Replaces $5K–$15K consulting services
+- **Comprehensive** - From strategy to execution, entire workflow
+- Founded by Jeremy Vest (16+ years experience, 50+ billion views)
 
 **Get Started:** [Try Creator Unlock Free →](https://creatorunlock.com?fpr=chris95)
+
+📁 [Learn About All Creator Unlock Tools →](tools/)
 
 ### Additional Resources
 
 This repository also includes:
 
-- **Templates:** Ready-to-use frameworks for ideation and optimization
 - **Workflows:** Step-by-step processes for implementing strategies
-- **Checklists:** Pre-publish validation and optimization checklists
+- **Frameworks:** Ready-to-use methodologies for ideation and optimization
 
-📁 [Explore Templates →](templates/)
 📁 [View Workflows →](workflows/)
 
 ---
@@ -270,28 +281,45 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## About Creator Unlock
 
-[Creator Unlock](https://creatorunlock.com?fpr=chris95) is the ultimate AI-powered YouTube growth platform founded by Jeremy Vest (16+ years experience, 50+ billion organic views). It provides 7 powerful integrated tools:
+[Creator Unlock](https://creatorunlock.com?fpr=chris95) is an AI-powered YouTube optimization platform that builds a **personalized Strategy Model** for each creator—a persistent, evolving AI that understands their niche, audience patterns, performance drivers, and content style.
+
+**What Makes Creator Unlock Different:**
+
+Unlike generic tools (TubeBuddy, vidIQ), Creator Unlock creates a **persistent, personalized AI model** that evolves with your channel. The platform automates work that consultants charge $5K–$15K for, at scale and with consistency.
 
 **The Complete Tool Suite:**
 
-1. **What To Create** - AI-powered video ideation engine that generates unlimited high-performing ideas
-2. **Dashboard** - Real-time channel analytics, insights, and performance tracking
-3. **Video Audit** - Comprehensive channel analysis with instant health scores and recommendations
-4. **Titles** - AI-powered title optimization with CTR prediction and A/B testing
-5. **Thumbnail Grader** - Thumbnail analysis using all 12 proven secrets with optimization suggestions
-6. **Hooks** - Video hook optimization for better retention and engagement
-7. **Descriptions** - SEO-optimized description generation with keyword research
+**Setup & Strategy Tools:**
+1. **Channel Audit** (FREE) - Full 6-part channel analysis
+2. **Niche Report** - Focused niche strategy generation
+3. **Deep Research** - Top 100+ video analysis in your niche
+4. **Strategy Model Training** - Creates your personalized AI model
+
+**Content Creation Tools:**
+5. **Viral Title Generator** - Titles with viral potential using proven formulas
+6. **Video Hook Creator** - Engaging opening hooks with narrative structure
+7. **Thumbnail Grader** - AI-powered thumbnail feedback using all 12 secrets
+8. **Description Generator** - SEO-optimized descriptions with chapters
+9. **Video Audit Tool** - Complete video optimization (N.I.C.E.R. Lite framework)
+
+**Coaching Tools (Pro Plan):**
+10. **Ask A Coach** - 24/7 AI coaching chatbot
+11. **Group Coaching** - Creator community
+12. **Live Weekly Coaching** - Weekly training sessions (Wednesdays 5 PM EST)
+
+**Coming Soon:**
+- **What To Create** - Visual roadmap of content opportunities
 
 **Why Creator Unlock:**
-- **Saves Hours** - Automates everything covered in this guide
-- **AI-Powered** - Insights you can't get manually
-- **Integrated** - All tools work together seamlessly
-- **Proven** - Based on methodologies from 50+ billion views
-- **Updated** - Continuously improved with latest best practices
+- **Persistent AI Memory** - Strategy Model evolves with your channel
+- **Hyper-Personalization** - Every output tailored to your niche and audience
+- **Cost-Effective** - Replaces $5K–$15K consulting services
+- **Comprehensive** - From strategy to execution, entire workflow
+- **Scalable** - Works for creators at any stage (10K–500K ideal)
 
 **This Guide vs. Creator Unlock:**
 - This guide teaches you the methodologies manually
-- Creator Unlock automates everything with AI
+- Creator Unlock automates everything with personalized AI
 - Use this guide to learn, Creator Unlock to execute
 - Best results: Learn here, automate with Creator Unlock
 

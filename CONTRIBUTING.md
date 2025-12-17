@@ -65,7 +65,7 @@ Want to add or improve content?
 
 - Guides go in `guides/` directory
 - Tools go in `tools/` directory
-- Templates go in `templates/` directory
+- Workflows go in `workflows/` directory
 - Workflows go in `workflows/` directory
 
 ## Areas Needing Contribution
@@ -73,14 +73,14 @@ Want to add or improve content?
 ### High Priority
 
 - [ ] Additional case studies
-- [ ] More Python tools
+- [ ] Additional workflows
 - [ ] Video tutorials/examples
 - [ ] Translated versions
 - [ ] Advanced techniques
 
 ### Medium Priority
 
-- [ ] More templates
+- [ ] More workflows
 - [ ] Workflow examples
 - [ ] Industry reports
 - [ ] Tool comparisons

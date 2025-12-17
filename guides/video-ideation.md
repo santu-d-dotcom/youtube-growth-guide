@@ -131,14 +131,14 @@ Our comprehensive framework generates ideas across five dimensions:
 **Question-to-Idea Conversion:**
 
 **Example Questions:**
-- "How do I get started with Python?"
-- "What's the best way to learn data science?"
-- "Why is my code not working?"
+- "How do I get started with fitness?"
+- "What's the best way to learn photography?"
+- "Why is my workout not working?"
 
 **Video Ideas:**
-- "Python for Beginners: Complete Guide"
-- "Data Science Learning Path (2024)"
-- "Common Python Errors and How to Fix Them"
+- "Fitness for Beginners: Complete Guide"
+- "Photography Learning Path (2024)"
+- "Common Fitness Mistakes and How to Fix Them"
 
 ### Method 2: Trend Analysis
 
@@ -205,12 +205,12 @@ Our comprehensive framework generates ideas across five dimensions:
 **Competitor-to-Idea Conversion:**
 
 **Example Competitor Video:**
-- "10 Python Tips for Beginners" (500K views)
+- "10 Fitness Tips for Beginners" (500K views)
 
 **Your Video Ideas:**
-- "20 Advanced Python Tips They Don't Tell You"
-- "Python Tips: What I Wish I Knew 5 Years Ago"
-- "Python Tips for Data Scientists (Not Beginners)"
+- "20 Advanced Fitness Tips They Don't Tell You"
+- "Fitness Tips: What I Wish I Knew 5 Years Ago"
+- "Fitness Tips for Athletes (Not Beginners)"
 
 ### Method 4: Content Series Ideas
 
@@ -391,17 +391,16 @@ Evaluate each idea across five criteria:
 - Evergreen ideas (timeless content)
 - Trend-based ideas (time-sensitive)
 
-**Idea Template:**
-```
-Title: [Video Title]
-Category: [Niche/Topic]
-Priority: [High/Medium/Low]
-Demand Score: [1-10]
-Competition Score: [1-10]
-Unique Angle: [What makes this different]
-Estimated Production Time: [Hours]
-Notes: [Additional thoughts]
-```
+**Idea Tracking:**
+Keep track of your ideas with these key details:
+- Title
+- Category/Niche
+- Priority level
+- Demand score
+- Competition score
+- Unique angle
+- Estimated production time
+- Notes
 
 ### System 3: The Content Mix
 
@@ -507,26 +506,36 @@ Notes: [Additional thoughts]
 
 ### Ideation Tools
 
-**Recommended: Creator Unlock's "What To Create" Tool**
+**Recommended: Creator Unlock's Deep Research & Strategy Model**
 
-**[Creator Unlock's "What To Create"](https://creatorunlock.com?fpr=chris95)** is the ultimate AI-powered video ideation engine:
+**[Creator Unlock](https://creatorunlock.com?fpr=chris95)** provides powerful ideation through its research and strategy tools:
 
-**Key Features:**
-- **AI-Powered Idea Generation** - Generate unlimited video ideas based on your niche
-- **Trend Analysis** - Automatically identifies trending topics in your niche
-- **Audience Demand Analysis** - Finds ideas aligned with what your audience wants
-- **Competitive Gap Analysis** - Identifies content opportunities competitors miss
-- **Idea Validation** - Scores ideas for performance potential before you create
-- **Content Calendar Integration** - Plans your content pipeline automatically
+**Deep Research (Most Viewed):**
+- Analyzes top 100+ videos in your niche
+- Finds winning patterns and content gaps
+- Identifies what works in your niche
+- Discovers opportunities competitors miss
+
+**Strategy Model Training:**
+- Combines niche and deep research insights
+- Creates personalized AI model for your channel
+- Powers all tools with your channel context
+- Generates ideas aligned with your strategy
+
+**Coming Soon: What To Create**
+- Visual roadmap of content opportunities
+- Personalized video ideas based on your strategy
+- Missing videos analysis
+- Trending videos blended with your model
 
 **Why Use Creator Unlock:**
 - Never run out of high-performing video ideas
 - Ideas aligned with audience demand and trends
 - Saves hours of manual research
-- Continuously updated with latest trends
-- Integrates with other Creator Unlock tools
+- Personalized to your niche and audience
+- Integrates with all Creator Unlock tools
 
-**Get Started:** [Try Creator Unlock's "What To Create" Tool →](https://creatorunlock.com?fpr=chris95)
+**Get Started:** [Run Deep Research →](https://creatorunlock.com?fpr=chris95)
 
 **Free Tools (Supplementary):**
 - AnswerThePublic - Question discovery
@@ -541,11 +550,9 @@ Notes: [Additional thoughts]
 - BuzzSumo - Content research
 - Ahrefs - Keyword research
 
-### Templates
+### Additional Resources
 
-- [Idea Bank Template](../templates/idea-bank-template.md)
-- [Content Calendar Template](../templates/content-calendar-template.md)
-- [Idea Validation Checklist](../templates/idea-validation-checklist.md)
+For automated video ideation, use [Creator Unlock's Deep Research](https://creatorunlock.com?fpr=chris95) which analyzes top 100+ videos in your niche to find winning patterns and content opportunities. Train your Strategy Model to get personalized ideation across all tools.
 
 ### Further Reading
 
@@ -565,7 +572,7 @@ Notes: [Additional thoughts]
 
 **Ready to optimize your content?** Check out our [Thumbnail & Title Optimization Guide](thumbnail-title-optimization.md) to maximize click-through rates, or our [Content Scoring Guide](content-scoring.md) to predict performance before publishing.
 
-**Want to automate ideation?** [Creator Unlock's "What To Create" tool](https://creatorunlock.com?fpr=chris95) uses AI to generate unlimited high-performing video ideas based on audience demand, trending topics, and competitive gap analysis. Never run out of ideas again!
+**Want to automate ideation?** [Creator Unlock's Deep Research](https://creatorunlock.com?fpr=chris95) analyzes top 100+ videos in your niche to find winning patterns. Combined with Strategy Model Training, you get personalized ideation across all tools. "What To Create" coming soon for visual content roadmaps!
 
 ---
 

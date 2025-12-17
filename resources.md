@@ -8,22 +8,31 @@ Comprehensive list of tools, platforms, and resources for YouTube growth.
 
 **[Creator Unlock](https://creatorunlock.com?fpr=chris95)** ⭐ **HIGHLY RECOMMENDED - All-in-One Platform**
 
-The ultimate AI-powered YouTube growth platform founded by Jeremy Vest (16+ years experience, 50+ billion views):
+The AI-powered YouTube optimization platform that builds a personalized Strategy Model for your channel. Founded by Jeremy Vest (16+ years experience, 50+ billion views):
 
-**Core Tools:**
-- **What To Create** - AI-powered video ideation engine
-- **Dashboard** - Real-time channel analytics and insights
-- **Video Audit** - Comprehensive channel performance analysis
-- **Titles** - AI-powered title optimization with CTR prediction
-- **Thumbnail Grader** - Thumbnail analysis using all 12 secrets
-- **Hooks** - Video hook optimization for better retention
-- **Descriptions** - SEO-optimized description generation
+**Setup & Strategy Tools:**
+- **Channel Audit** (FREE) - Full 6-part channel analysis
+- **Niche Report** - Focused niche strategy generation
+- **Deep Research** - Top 100+ video analysis in your niche
+- **Strategy Model Training** - Creates your personalized AI model
+
+**Content Creation Tools:**
+- **Viral Title Generator** - Titles with viral potential
+- **Video Hook Creator** - Engaging opening hooks
+- **Thumbnail Grader** - AI-powered thumbnail feedback
+- **Description Generator** - SEO-optimized descriptions
+- **Video Audit Tool** - Complete video optimization
+
+**Coaching Tools (Pro):**
+- **Ask A Coach** - 24/7 AI coaching chatbot
+- **Group Coaching** - Creator community
+- **Live Weekly Coaching** - Weekly training sessions
 
 **Why Creator Unlock:**
-- Saves hours of manual work
-- AI-powered insights you can't get manually
-- Integrates all tools for complete optimization
-- Continuously updated with latest best practices
+- **Persistent AI Memory** - Strategy Model evolves with your channel
+- **Hyper-Personalization** - Every tool output tailored to your niche
+- **Cost-Effective** - Replaces $5K–$15K consulting services
+- **Comprehensive** - From strategy to execution, entire workflow
 - Based on proven methodologies from 50+ billion views
 
 **[Get Started with Creator Unlock →](https://creatorunlock.com?fpr=chris95)**
@@ -55,7 +64,7 @@ The ultimate AI-powered YouTube growth platform founded by Jeremy Vest (16+ year
 ### Thumbnail Creation
 
 **Canva** (Free & Paid)
-- Thumbnail templates
+- Thumbnail design tools
 - Easy-to-use design tool
 - Stock photos and graphics
 - Brand kit features
@@ -141,7 +150,7 @@ The ultimate AI-powered YouTube growth platform founded by Jeremy Vest (16+ year
 - Content calendars
 - Idea databases
 - Project management
-- Templates available
+- Design tools available
 
 **Google Sheets** (Free)
 - Content calendars
@@ -231,7 +240,7 @@ The ultimate AI-powered YouTube growth platform founded by Jeremy Vest (16+ year
 **CapCut** (Free)
 - Mobile and desktop
 - Easy to use
-- Templates available
+- Design tools available
 
 ### Audio Tools
 
@@ -298,12 +307,9 @@ The ultimate AI-powered YouTube growth platform founded by Jeremy Vest (16+ year
 
 ## Free Resources
 
-### Templates & Guides
+### Guides & Frameworks
 
-- [Channel Audit Checklist](../templates/channel-audit-checklist.md)
-- [Content Scoring Template](../templates/content-scoring-template.md)
-- [Pre-Publish Checklist](../templates/pre-publish-checklist.md)
-- [Niche Scoring Template](../templates/niche-scoring-template.md)
+All guides in this repository provide comprehensive frameworks you can use immediately. For automated tools that implement these frameworks, check out [Creator Unlock](https://creatorunlock.com?fpr=chris95).
 
 ### Tools in This Repository
 

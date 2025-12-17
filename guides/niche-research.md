@@ -212,7 +212,7 @@ Start with broad categories and narrow down:
 - Health & Wellness (fitness, mental health, nutrition)
 
 **Narrowing Down:**
-- Education → Programming → Python → Python for Data Science
+- Education → Fitness → Strength Training → Powerlifting for Beginners
 - Lifestyle → Cooking → Vegan Cooking → Quick Vegan Meals
 - Technology → Smartphones → iPhone → iPhone Photography Tips
 
@@ -463,7 +463,7 @@ Each sub-niche has different:
 
 **Step 14: Score Opportunities**
 
-Use our [Niche Scoring Template](../templates/niche-scoring-template.md) to evaluate niches:
+Use [Creator Unlock's Niche Report](https://creatorunlock.com?fpr=chris95) to automatically generate a focused niche strategy from your channel data, or manually score using the framework below:
 
 **Scoring Criteria (1-10 scale):**
 - Market Demand (search volume, audience size)
@@ -632,13 +632,13 @@ Rate each niche opportunity across five dimensions:
 - Unique value proposition
 - Growth alignment
 
-### Scoring Template
+### Scoring Framework
 
-Use our [Niche Scoring Template](../templates/niche-scoring-template.md) to systematically evaluate niches.
+Use the scoring framework below to systematically evaluate niches, or use [Creator Unlock's Niche Report](https://creatorunlock.com?fpr=chris95) for automated niche strategy generation.
 
 **Example Scoring:**
 
-**Niche: Python for Data Science**
+**Niche: Fitness for Busy Professionals**
 
 - Market Demand: 9/10 (High search volume, growing trend)
 - Competition Level: 7/10 (Moderate competition, quality varies)
@@ -877,12 +877,9 @@ Your mission is the heartbeat of your YouTube channel—the underlying "why" tha
 - Google Keyword Planner - Search volume data
 - SEMrush - Comprehensive keyword research
 
-### Templates
+### Additional Resources
 
-- [Niche Discovery Workbook](../templates/niche-discovery-workbook.md) - Complete workbook based on Jeremy Vest's framework
-- [Niche Scoring Template](../templates/niche-scoring-template.md)
-- [Competitive Analysis Template](../templates/competitive-analysis-template.md)
-- [Content Gap Analysis Template](../templates/content-gap-analysis-template.md)
+For automated niche research and discovery, use [Creator Unlock's Niche Report](https://creatorunlock.com?fpr=chris95) which generates a focused niche strategy from your channel data, incorporating Jeremy Vest's proven framework. Combine with Deep Research for comprehensive niche analysis.
 
 ### Further Reading
 
@@ -957,7 +954,7 @@ Your mission is the heartbeat of your YouTube channel—the underlying "why" tha
 
 **Ready to generate content ideas?** Check out our [Video Ideation Guide](video-ideation.md) to turn your niche research into high-performing video concepts.
 
-**Want to automate niche research?** [Creator Unlock's Dashboard and Video Audit](https://creatorunlock.com?fpr=chris95), founded by Jeremy Vest, uses AI to identify profitable niches, analyze market opportunities, and provide niche recommendations automatically. It incorporates the same methodologies outlined in this guide but saves you hours of manual research!
+**Want to automate niche research?** [Creator Unlock's Niche Report](https://creatorunlock.com?fpr=chris95), founded by Jeremy Vest, generates a focused niche strategy from your channel data automatically. Combined with Deep Research, you get comprehensive niche analysis that incorporates the same methodologies outlined in this guide but saves you hours of manual research!
 
 ---
 

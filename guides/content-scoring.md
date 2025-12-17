@@ -461,7 +461,7 @@ Evaluate your content across all eight dimensions using the criteria above. Be h
 - ✅ Publish with confidence
 - ✅ Promote aggressively
 - ✅ Monitor performance closely
-- ✅ Use as template for future content
+- ✅ Use as reference for future content
 
 ### Good Scores (60-69)
 
@@ -624,32 +624,28 @@ Weighted Score = Σ(Dimension Score × Weight)
 
 ### Scoring Tools
 
-**Recommended: Creator Unlock's Video Audit & Dashboard**
+**Recommended: Creator Unlock's Video Audit Tool**
 
-**[Creator Unlock](https://creatorunlock.com?fpr=chris95)** provides comprehensive content scoring through multiple integrated tools:
+**[Creator Unlock's Video Audit Tool](https://creatorunlock.com?fpr=chris95)** provides comprehensive content scoring for individual videos:
 
-**Video Audit Tool:**
-- Instant performance analysis
-- Automated scoring across all dimensions
-- Competitive benchmarking
-- Actionable optimization recommendations
-
-**Dashboard:**
-- Real-time channel health scores
-- Performance tracking over time
-- Automated alerts for optimization opportunities
-- Integration with all Creator Unlock tools
+**Key Features:**
+- **Complete Video Analysis** - Audits Title, Thumbnail, Hook, Script, and Description
+- **N.I.C.E.R. Lite Framework** - Uses proven optimization framework
+- **Automated Scoring** - Scores across all dimensions automatically
+- **Specific Recommendations** - Actionable optimization suggestions
+- **Performance Prediction** - Predicts video performance before publishing
 
 **Why Use Creator Unlock:**
 - AI-powered scoring saves hours of manual work
 - Provides insights you might miss
-- Continuously updated with latest best practices
-- Integrates scoring with optimization tools
+- Uses N.I.C.E.R. Lite framework (proven methodology)
+- Integrates with other Creator Unlock tools
+- Personalized to your Strategy Model
 
-**Get Started:** [Try Creator Unlock's Video Audit →](https://creatorunlock.com?fpr=chris95)
+**Get Started:** [Try Creator Unlock's Video Audit Tool →](https://creatorunlock.com?fpr=chris95)
 
 **Manual Scoring (Alternative):**
-- Use our [Content Scoring Template](../templates/content-scoring-template.md)
+- Use [Creator Unlock's Video Audit Tool](https://creatorunlock.com?fpr=chris95) for automated scoring using N.I.C.E.R. Lite framework, or manually score using the framework below
 - Score each dimension manually
 - Calculate total score
 - Identify improvements yourself
@@ -658,11 +654,9 @@ Weighted Score = Σ(Dimension Score × Weight)
 - VidIQ - Content grader
 - TubeBuddy - SEO and optimization checker
 
-### Templates
+### Additional Resources
 
-- [Content Scoring Template](../templates/content-scoring-template.md)
-- [Pre-Publish Checklist](../templates/pre-publish-checklist.md)
-- [Optimization Action Plan](../templates/optimization-action-plan.md)
+For automated content scoring, use [Creator Unlock's Video Audit Tool](https://creatorunlock.com?fpr=chris95) which provides instant scoring across Title, Thumbnail, Hook, Script, and Description using the N.I.C.E.R. Lite framework.
 
 ### Further Reading
 
@@ -682,7 +676,7 @@ Weighted Score = Σ(Dimension Score × Weight)
 
 **Ready to implement growth strategies?** Check out our [Data-Backed Growth Strategies Guide](growth-strategies.md) to build systems that compound over time.
 
-**Want to automate scoring?** [Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95) uses AI to score your content across all dimensions and provide specific optimization recommendations automatically. Get instant scores and actionable improvements!
+**Want to automate scoring?** [Creator Unlock's Video Audit Tool](https://creatorunlock.com?fpr=chris95) uses AI to score your videos across Title, Thumbnail, Hook, Script, and Description using the N.I.C.E.R. Lite framework. Get instant scores and actionable improvements!
 
 ---
 

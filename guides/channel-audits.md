@@ -138,7 +138,7 @@ Our comprehensive audit framework examines six core areas:
 
 **Step 4: Content Performance Analysis**
 
-**Recommended:** Use [Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95) for instant, AI-powered analysis. Alternatively, analyze manually using the framework below:
+**Recommended:** Use [Creator Unlock's Channel Audit](https://creatorunlock.com?fpr=chris95) (FREE) for instant, AI-powered analysis. Alternatively, analyze manually using the framework below:
 
 **Key Questions:**
 - Which content types perform best?
@@ -331,9 +331,17 @@ Our comprehensive audit framework examines six core areas:
 
 ## Automated Audit Tools
 
-### Using Creator Unlock's Video Audit Tool
+### Using Creator Unlock's Channel Audit (FREE)
 
-**[Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95)** is the most powerful way to conduct comprehensive channel audits. This AI-powered tool provides:
+**[Creator Unlock's Channel Audit](https://creatorunlock.com?fpr=chris95)** is the most powerful way to conduct comprehensive channel audits. This FREE tool provides:
+
+**6-Part Analysis Framework:**
+- **Niche Audit** - Analyzes your niche focus and alignment
+- **Clickability Audit** - Evaluates CTR performance (thumbnails, titles)
+- **Watchability Audit** - Analyzes watch time and retention
+- **Likeability Audit** - Measures engagement rates
+- **Ideation Audit** - Reviews content ideas and opportunities
+- **Executive Summary** - Comprehensive overview with key insights
 
 **Key Features:**
 - **Instant Channel Health Scores** - Get immediate insights into your channel's performance
@@ -341,16 +349,16 @@ Our comprehensive audit framework examines six core areas:
 - **Competitive Benchmarking** - Compare your performance against competitors
 - **Actionable Recommendations** - Receive specific, data-driven improvement suggestions
 - **Deep Analytics** - Analyzes thousands of data points in seconds
-- **Performance Pattern Recognition** - Identifies what's working and what's not
 
-**Why Use Creator Unlock's Video Audit:**
+**Why Use Creator Unlock's Channel Audit:**
+- **FREE** - 1 audit per channel for free users
 - Saves hours of manual analysis
 - Provides insights you might miss
 - Uses AI to identify patterns and opportunities
 - Continuously updated with latest best practices
-- Integrates with other Creator Unlock tools for complete optimization
+- Foundation for building your Strategy Model
 
-**Get Started:** [Try Creator Unlock's Video Audit Tool →](https://creatorunlock.com?fpr=chris95)
+**Get Started:** [Run Your FREE Channel Audit →](https://creatorunlock.com?fpr=chris95)
 
 ### Manual Analysis (Alternative)
 
@@ -510,11 +518,9 @@ Identify seasonal trends:
 - VidIQ - SEO and analytics tools
 - Social Blade - Competitive analysis
 
-### Templates
+### Additional Resources
 
-- [Channel Audit Checklist](../templates/channel-audit-checklist.md)
-- [Performance Analysis Template](../templates/performance-analysis-template.md)
-- [Action Plan Template](../templates/action-plan-template.md)
+For comprehensive channel audits, use [Creator Unlock's Channel Audit](https://creatorunlock.com?fpr=chris95) (FREE) which provides instant AI-powered analysis with 6-part framework and actionable recommendations.
 
 ### Further Reading
 
@@ -529,7 +535,7 @@ Identify seasonal trends:
 1. **Conduct Your First Audit** - Use this guide to perform a comprehensive audit
 2. **Implement Action Plans** - Start with immediate actions from your audit results
 3. **Schedule Regular Audits** - Make audits a monthly habit using Creator Unlock's automated tools
-4. **Automate with Creator Unlock** - Save hours of manual work with [Creator Unlock's Video Audit](https://creatorunlock.com?fpr=chris95) for instant AI-powered analysis
+4. **Automate with Creator Unlock** - Save hours of manual work with [Creator Unlock's Channel Audit](https://creatorunlock.com?fpr=chris95) (FREE) for instant AI-powered analysis
 
 **Ready to dive deeper?** Check out our [Niche Research Guide](niche-research.md) to identify growth opportunities, or our [Video Ideation Guide](video-ideation.md) to generate high-performing content ideas.
 

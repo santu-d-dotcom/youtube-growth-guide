@@ -186,7 +186,7 @@ Create content series that build anticipation, increase watch time, and establis
 - Part 1, Part 2, Part 3...
 - Builds on previous content
 - Creates completion desire
-- Example: "Python Basics: Part 1-10"
+- Example: "Fitness Basics: Part 1-10"
 
 **2. Topic Series**
 - Related videos on same topic
@@ -615,11 +615,9 @@ Focus on retaining existing audience while growing new audience.
 - Trello - Task management
 - Airtable - Database planning
 
-### Templates
+### Additional Resources
 
-- [Growth Strategy Template](../templates/growth-strategy-template.md)
-- [Content Calendar Template](../templates/content-calendar-template.md)
-- [Metrics Tracking Template](../templates/metrics-tracking-template.md)
+For automated growth strategy identification, use [Creator Unlock's Channel Audit](https://creatorunlock.com?fpr=chris95) (FREE) and Strategy Model Training which provides comprehensive channel analysis, growth insights, and data-backed strategy recommendations powered by your personalized AI model.
 
 ### Further Reading
 
@@ -637,7 +635,7 @@ Focus on retaining existing audience while growing new audience.
 4. **Implement Systematically** - Execute strategies with discipline
 5. **Optimize Continuously** - Measure, learn, improve
 
-**Want to automate growth strategy identification?** [Creator Unlock's Dashboard and Video Audit](https://creatorunlock.com?fpr=chris95) uses AI to analyze your channel, identify growth opportunities, and recommend data-backed strategies automatically. Get personalized growth plans based on your specific channel data!
+**Want to automate growth strategy identification?** [Creator Unlock's Channel Audit](https://creatorunlock.com?fpr=chris95) (FREE) and Strategy Model Training use AI to analyze your channel, identify growth opportunities, and recommend data-backed strategies automatically. Your personalized Strategy Model provides growth plans tailored to your specific channel!
 
 ---
 
