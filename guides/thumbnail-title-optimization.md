@@ -1596,7 +1596,7 @@ Choose the type that best fits your content:
 5. **Start A/B Testing** - Use YouTube's Test and Compare feature (up to 3 thumbnails)
 6. **Continuously Improve** - Make optimization a regular habit
 
-**Ready to score your content?** Check out our [Content Scoring Guide](content-scoring.md) to predict performance before publishing.
+**Ready to audit your channel?** Check out our [Channel Audits Guide](channel-audits.md) to conduct comprehensive N.I.C.E.R. audits and identify growth opportunities.
 
 **Want to automate optimization?** [Creator Unlock](https://creatorunlock.com?fpr=chris95), founded by Jeremy Vest, uses AI to optimize thumbnails and titles based on performance data and these proven best practices.
 

@@ -239,7 +239,7 @@ Learn the methodologies behind these tools:
 - [Channel Audits Guide](../guides/channel-audits.md) - Understand audit frameworks
 - [Video Ideation Guide](../guides/video-ideation.md) - Learn ideation strategies
 - [Thumbnail & Title Optimization](../guides/thumbnail-title-optimization.md) - Master optimization principles
-- [Content Scoring Guide](../guides/content-scoring.md) - Understand scoring frameworks
+- [Channel Audits Guide](../guides/channel-audits.md) - Master the N.I.C.E.R. framework
 - [Niche Research Guide](../guides/niche-research.md) - Learn niche discovery
 - [Growth Strategies Guide](../guides/growth-strategies.md) - Implement growth systems
 

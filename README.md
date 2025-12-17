@@ -1,6 +1,6 @@
 # 🚀 The Ultimate YouTube Growth Guide
 
-> **Stop guessing. Start winning.** The ultimate open-source YouTube growth guide inspired by [Creator Unlock](https://creatorunlock.com?fpr=chris95). Master AI-driven channel audits, niche research, video ideation, thumbnail & title optimization, content scoring, and data-backed growth strategies.
+> **Stop guessing. Start winning.** The ultimate open-source YouTube growth guide inspired by [Creator Unlock](https://creatorunlock.com?fpr=chris95). Master the N.I.C.E.R. framework for channel audits, niche research, video ideation, thumbnail & title optimization, and data-backed growth strategies.
 
 ## 📋 Table of Contents
 
@@ -9,12 +9,11 @@
 - [What You'll Learn](#what-youll-learn)
 - [Quick Start](#quick-start)
 - [Core Strategies](#core-strategies)
-  - [1. AI-Driven Channel Audits](#1-ai-driven-channel-audits)
+  - [1. The N.I.C.E.R. Channel Audit Framework](#1-the-nicer-channel-audit-framework)
   - [2. Niche Research](#2-niche-research)
   - [3. Video Ideation](#3-video-ideation)
   - [4. Thumbnail & Title Optimization](#4-thumbnail--title-optimization)
-  - [5. Content Scoring](#5-content-scoring)
-  - [6. Data-Backed Growth Strategies](#6-data-backed-growth-strategies)
+  - [5. Data-Backed Growth Strategies](#5-data-backed-growth-strategies)
 - [Tools & Workflows](#tools--workflows)
 - [Advanced Techniques](#advanced-techniques)
 - [Resources](#resources)
@@ -50,38 +49,37 @@ After analyzing thousands of successful YouTube channels and working with platfo
 
 By the end of this guide, you'll be able to:
 
-1. **Conduct AI-driven channel audits** that reveal hidden growth opportunities
+1. **Conduct N.I.C.E.R. channel audits** that reveal hidden growth opportunities
 2. **Research niches** with precision, identifying underserved markets
 3. **Generate video ideas** that align with audience demand and trending topics
 4. **Optimize thumbnails and titles** for maximum click-through rates
-5. **Score your content** before publishing to predict performance
-6. **Implement data-backed strategies** that compound over time
+5. **Implement data-backed strategies** that compound over time
 
 ---
 
 ## Quick Start
 
-1. **Start with a Channel Audit** → [Guide: AI-Driven Channel Audits](guides/channel-audits.md)
+1. **Start with a Channel Audit** → [Guide: The N.I.C.E.R. Framework](guides/channel-audits.md)
 2. **Research Your Niche** → [Guide: Niche Research](guides/niche-research.md)
 3. **Generate Video Ideas** → [Guide: Video Ideation](guides/video-ideation.md)
 4. **Optimize Your Content** → [Guide: Thumbnail & Title Optimization](guides/thumbnail-title-optimization.md)
-5. **Score Before Publishing** → [Guide: Content Scoring](guides/content-scoring.md)
-6. **Implement Growth Strategies** → [Guide: Data-Backed Growth Strategies](guides/growth-strategies.md)
+5. **Implement Growth Strategies** → [Guide: Data-Backed Growth Strategies](guides/growth-strategies.md)
 
 ---
 
 ## Core Strategies
 
-### 1. AI-Driven Channel Audits
+### 1. The N.I.C.E.R. Channel Audit Framework
 
-Learn how to analyze your channel like a data scientist. Discover what's working, what's not, and where your biggest opportunities lie.
+Master the comprehensive N.I.C.E.R. framework for channel audits. Evaluate your channel across Niche, Ideation, Clickability, Watchability, Likeability, and get an Executive Summary with priority recommendations.
 
-**Key Topics:**
-- Channel health metrics
-- Content performance analysis
-- Audience engagement patterns
-- Competitive benchmarking
-- Growth opportunity identification
+**The N.I.C.E.R. Framework:**
+- **N** - Niche Audit: Niche clarity, target audience, value proposition, positioning
+- **I** - Ideation Audit: Video ideas evaluated for trending potential, niche relevance, competitive whitespace
+- **C** - Clickability Audit: Titles, thumbnails, and hooks graded on established criteria
+- **E** - Watchability Audit: Script structure, pacing, retention patterns, content flow
+- **R** - Likeability Audit: Engagement metrics, audience connection
+- **Executive Summary**: High-level overview with priority recommendations
 
 📖 [Read the Full Guide →](guides/channel-audits.md)
 
@@ -132,22 +130,7 @@ Master the art and science of creating thumbnails and titles that stop the scrol
 
 ---
 
-### 5. Content Scoring
-
-Predict video performance before you hit publish. Score your content across multiple dimensions to maximize success probability.
-
-**Key Topics:**
-- Content scoring frameworks
-- Performance prediction models
-- Quality assessment metrics
-- Optimization checklists
-- Pre-publish validation
-
-📖 [Read the Full Guide →](guides/content-scoring.md)
-
----
-
-### 6. Data-Backed Growth Strategies
+### 5. Data-Backed Growth Strategies
 
 Implement strategies that compound over time. Build systems that generate consistent, sustainable growth.
 

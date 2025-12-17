@@ -570,7 +570,7 @@ For automated video ideation, use [Creator Unlock's Deep Research](https://creat
 4. **Build Your Content Calendar** - Plan your next month of content
 5. **Maintain Your Idea Bank** - Continuously add and refine ideas
 
-**Ready to optimize your content?** Check out our [Thumbnail & Title Optimization Guide](thumbnail-title-optimization.md) to maximize click-through rates, or our [Content Scoring Guide](content-scoring.md) to predict performance before publishing.
+**Ready to optimize your content?** Check out our [Thumbnail & Title Optimization Guide](thumbnail-title-optimization.md) to maximize click-through rates, or our [Channel Audits Guide](channel-audits.md) to conduct comprehensive N.I.C.E.R. audits.
 
 **Want to automate ideation?** [Creator Unlock's Deep Research](https://creatorunlock.com?fpr=chris95) analyzes top 100+ videos in your niche to find winning patterns. Combined with Strategy Model Training, you get personalized ideation across all tools. "What To Create" coming soon for visual content roadmaps!
 
